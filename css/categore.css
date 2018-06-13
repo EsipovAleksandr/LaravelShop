@@ -1,0 +1,57 @@
+
+a#categoreProduct{
+    height: auto;
+    cursor: pointer;
+    background:#00bcd4;
+    font-size: 20px;
+    color: white;
+    display: block;
+    text-decoration: none;
+    position: relative;
+    FONT-FAMILY: "Verdana";
+    padding-bottom:15px;
+    padding-top:15px;
+    text-align: center;
+}
+
+
+a.spoiler:after{
+    content:"\f0de";
+    font-family:'FontAwesome';
+    float: right;
+    padding-right: 5%;
+}
+
+a.spoiler.collapsed:after{
+    content:"\f0dd";
+    font-family:'FontAwesome';
+
+}
+
+div#categore{
+    height: auto;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 20px 0px rgba(0,0,0,.12), 0 2px 20px rgba(0,0,0,.24);
+    text-align: center;
+
+}
+
+a#podcategoreProduct{
+    height: auto;
+    cursor: pointer;
+    background: rgba(255, 249, 236, 0.76);
+    font-size: 15px;
+    color: white;
+    display: block;
+    color: #595959;
+    text-decoration: none;
+    position: relative;
+    FONT-FAMILY: "Verdana";
+    padding-bottom:15px;
+    padding-top:15px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+
+

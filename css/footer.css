@@ -1,0 +1,39 @@
+.footer div{
+    display: inline-block;
+}
+
+.footer{
+
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+    margin-top: 50px;
+    background:url(/local/resources/image/fon5.jpg )repeat-x left;
+    background-size: 100%;
+
+
+}
+ .instafram a{
+
+    text-decoration: none;
+    font-size: 30px;
+    padding: 30px;
+     color: #fffcec;
+}
+
+
+ .vk a{
+    color: #f0f0f0;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 30px;
+
+}
+
+ .faecbook a{
+     color: #f0f0f0;
+     text-decoration: none;
+     font-size: 30px;
+     padding: 30px;
+ }
+

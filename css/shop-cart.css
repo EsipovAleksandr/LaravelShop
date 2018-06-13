@@ -1,0 +1,77 @@
+img {
+    max-height: 150px;
+    min-height: 150px;
+}
+.half-cont{
+    float: right;
+}
+.totalPrice{
+    float: right;
+    font-size: 150%;
+    font-family: "Arial Black";
+}
+
+h1{
+   font-size: 200%;
+}
+.quantity{
+    text-align: center;
+    font-size: 150%;
+}
+.quantity a{
+    font-size: 180%;
+    color:#5cb85c
+}
+
+.quantity a:hover {
+    color: #cbd4c8;
+}
+
+b{
+    font-size: 140%;
+}
+.closed{
+    float: right;
+}
+.closed a{
+    font-size: 200%;
+    color:#d9534f;
+}
+.closed  a:hover {
+    color: #cbd4c8;
+}
+.blocproduckt{padding: 10px;
+    border-bottom: 1px solid #c3c3c3;
+    box-shadow: 0 2px 0 0 #e1e1e1, 0 2px 5px 0 #f5f5f6;
+}
+.quantity div{
+    display: inline-block;
+}
+.cart-empty{
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

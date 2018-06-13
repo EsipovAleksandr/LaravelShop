@@ -1,0 +1,48 @@
+
+.module_item{
+    float: left;
+
+
+}
+.thumbnail img {
+    max-height: 200px;
+
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight:bold;
+    font-size: 16px;
+}
+
+.image{
+    min-height: 220px;
+    max-height: 220px;
+}
+.hit {
+/* Please do not use this import in production. You could download this font from here https://fontstorage.com/font/ubuntu */
+@import "http://fonts.fontstorage.com/import/ubuntu.css";
+/*
+	Ubuntu, 300, 300 italic, 400, 400 italic, 500, 500 italic, 700, 700 italic
+*/
+
+
+    font-family:ubuntu!important;
+
+    margin-bottom: 5%;
+    margin-top: 5%;
+    text-align:center;
+    font-size: 4em;
+}
+
+.hitText
+{color: white;
+    padding:1%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    background:url(/local/resources/image/fonHIt.jpg )repeat-x left;
+    background-size: 100%;
+}
